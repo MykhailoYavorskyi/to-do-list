@@ -1,0 +1,16 @@
+button {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  border: 2px solid black;
+  width: 300px;
+  cursor: pointer;
+}
+
+.complite {
+  background-color: green;
+}
